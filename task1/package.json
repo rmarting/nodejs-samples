@@ -1,0 +1,14 @@
+{
+  "name": "task1",
+  "version": "0.0.1",
+  "description": "Task 1 - Node.js training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task1"
+  ],
+  "author": "Roman Martin",
+  "license": "BSD"
+}

@@ -1,0 +1,7 @@
+It is a sample data file with content to test the task1.
+
+--0-0--
+
+--0-0--
+
+End of this file.

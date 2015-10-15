@@ -1,0 +1,14 @@
+{
+  "name": "task2",
+  "version": "0.0.1",
+  "description": "Do a HTTP call on google.com and outputs the body",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Marting (roman.martin@redhat.com)",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.65.0"
+  }
+}
